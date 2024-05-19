@@ -15,9 +15,9 @@ Bu projeyi çalıştırmak için Python 3.x ve PyPDF2 kütüphanesinin yüklü o
 PyPDF2 kütüphanesi için gereksinimleri yüklemek için pip install PyPDF2 komutunu kullanabilirsiniz.
 
 Örnek Çıktı:
-------------------------------
+
 Yapı Kredi FON Dağılımı
-------------------------------
+
 Hisse TRA123 Yüzde: 10.50
 Hisse KY456 Yüzde: 7.80
 Toplam Yüzde: 18.30
