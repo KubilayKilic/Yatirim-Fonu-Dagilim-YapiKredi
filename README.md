@@ -13,8 +13,6 @@ Bu projeyi çalıştırmak için Python 3.x ve PyPDF2 kütüphanesinin yüklü o
 PyPDF2 kütüphanesi için gereksinimleri yüklemek için pip install PyPDF2 komutunu kullanabilirsiniz.
 Örnek Çıktı:
 
-markdown
-Copy code
 ------------------------------
 Yapı Kredi FON Dağılımı
 ------------------------------
